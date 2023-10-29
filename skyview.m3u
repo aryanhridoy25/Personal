@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Star_Sports_%28Indian_TV_network%29#/media/File:Star_Sports_Network.png” group-title=”Sports”, Star Sports 2 HD
+http://172.17.50.112/live/fifa2022/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Sports18#/media/File:Sports18_official_logo.png” group-title=”Sports”, Sports 18 HD
+http://172.17.50.112/live/antbd1001/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Sports18#/media/File:Sports18_official_logo.png” group-title=”English”, Star Movies HD
+http://172.17.50.112/live/antbd1003/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Nickelodeon_%28Indian_TV_channel%29#/media/File:Nick.svg” group-title=”Kids”, Nick HD+
+http://172.17.50.112/live/antbd1004/index.m3u8
